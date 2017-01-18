@@ -1,0 +1,21 @@
+{
+  "name": "socketchat",
+  "description": "Simple socket.io chat",
+  "main": "",
+  "authors": [
+    "Emilio Gozo <emilio.gozo@obf.ateneo.edu>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/emiliogozo/udemy-a2-socketchat",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
